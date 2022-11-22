@@ -6,7 +6,7 @@ Hacked Vending Machines drop their inventory instead of useless junk. With an ad
 
 Modded             |  Vanilla
 :-------------------------:|:-------------------------:
-![](https://staticdelivery.nexusmods.com/mods/3333/images/thumbnails/6258/6258-1667443935-1223314437.png) | ![](https://staticdelivery.nexusmods.com/mods/3333/images/thumbnails/6258/6258-1667470930-144397873.png)
+![](https://staticdelivery.nexusmods.com/mods/3333/images/6258/6258-1667443935-1223314437.png) | ![](https://staticdelivery.nexusmods.com/mods/3333/images/6258/6258-1667470930-144397873.png)
 
 ![](https://i.imgur.com/NEvqTCk.gif)
 
